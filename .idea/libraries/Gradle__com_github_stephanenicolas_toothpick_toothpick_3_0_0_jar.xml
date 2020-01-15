@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.stephanenicolas.toothpick:toothpick:3.0.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stephanenicolas.toothpick/toothpick/3.0.0/8dc34e5164e747c1990fd0972ae04aaa95f9152f/toothpick-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stephanenicolas.toothpick/toothpick/3.0.0/b3e06edae7e15c77706fdc2ab74eb8a3121ca001/toothpick-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stephanenicolas.toothpick/toothpick/3.0.0/51ada4b9ad853a01f2b67787dab327f4d7aa458f/toothpick-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
